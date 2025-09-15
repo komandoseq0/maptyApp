@@ -32,7 +32,7 @@ Aplikacja pozwala na rejestrowanie treningów biegowych i rowerowych na mapie or
 ---
 
 ## 📸 Podgląd
-*(tutaj możesz dodać zrzut ekranu z aplikacji)*  
+<img width="1918" height="944" alt="image" src="https://github.com/user-attachments/assets/be757eca-d6ea-42d6-a51b-7477eb195a55" />
 
 ---
 
